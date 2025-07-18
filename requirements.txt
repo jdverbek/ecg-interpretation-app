@@ -1,8 +1,9 @@
 streamlit==1.47.0
 pillow==11.3.0
 numpy==1.26.4
-opencv-python==4.10.0.84
 scipy==1.13.1
-matplotlib==3.9.2
-pandas==2.2.3
+opencv-python==4.9.0.80
+matplotlib==3.8.4
+pandas==2.2.2
+scikit-image==0.24.0
 
