@@ -1,9 +1,10 @@
+setuptools>=65.0.0
 streamlit==1.47.0
-pillow==11.3.0
+pillow==10.0.0
 numpy==1.24.3
 scipy==1.10.1
-opencv-python-headless==4.8.1.78
+opencv-python-headless==4.8.0.76
 pandas==2.0.3
-matplotlib==3.7.2
-scikit-image==0.21.0
+matplotlib==3.7.1
+scikit-image==0.20.0
 
